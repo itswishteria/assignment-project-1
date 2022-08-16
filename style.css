@@ -157,7 +157,7 @@ body {
     .thetypes-text {
       font-family: arial black;
       font-size: 70px;
-      align-items; center;
+      align-items: center;
       margin-left: 60rem;
       color: white;
       text-decoration: none;
@@ -203,7 +203,7 @@ body {
     .contact-text {
       font-family: arial black;
       font-size: 80px;
-      align-items; center;
+      align-items: center;
       margin-left: 50rem;
       color: white;
       text-decoration: none;
