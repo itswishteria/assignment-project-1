@@ -104,7 +104,7 @@ a.style-nav:active {
   border-radius: 1.15rem;
   line-height: 1.25;
   max-width: 75%;
-  padding: 0.5rem .875rem;
+  padding: 0.5rem 0.875rem;
   position: relative;
   word-wrap: break-word;
 }
@@ -138,7 +138,7 @@ p.intro-text::after {
   background-color: black;
   border-bottom-left-radius: 0.5rem;
   right: -40px;
-  transform:translate(-30px, -2px);
+  transform: translate(-30px, -2px);
   width: 10px;
 }
 /* Clear floats after the columns */

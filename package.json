@@ -11,5 +11,8 @@
   "devDependencies": {
     "prettier": "2.7.1",
     "vite": "^3.0.7"
+  },
+  "dependencies": {
+    "petite-vue": "^0.4.1"
   }
 }
