@@ -191,6 +191,7 @@ p.intro-text::after {
   font-size: 70px;
   align-items: center;
   margin-left: 60rem;
+  padding: 50px;
   color: white;
   text-decoration: none;
 }
