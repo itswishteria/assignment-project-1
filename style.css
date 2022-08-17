@@ -75,22 +75,22 @@ body {
 }
 
 /* unvisited link */
-a.style-nav:link {
+.style-nav ul li a:link {
   color: #559953;
 }
 
 /* visited link */
-a.style-nav:visited {
+.style-nav ul li a:visited {
   color: #559953;
 }
 
 /* mouse over link */
-a.style-nav:hover {
+.style-nav ul li a:hover {
   color: #865399;
 }
 
 /* selected link */
-a.style-nav:active {
+.style-nav ul li a :active {
   color: #538499;
 }
 
