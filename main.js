@@ -14,14 +14,14 @@ const headerData = () => {
     .then((text) => (document.getElementById("navbar").innerHTML = text));
 };
 
-const routing = () => {
-  fetch(landing)
+const routing = (filePath) => {
+  fetch(filePath)
     .then((response) => response.text())
     .then((text) => (document.getElementById("app").innerHTML = text));
 };
 
 headerData();
-routing();
+routing(landing);
 
 createApp().mount();
 
