@@ -21,7 +21,7 @@ const routing = (filePath) => {
 };
 
 headerData();
-routing(landing);
+routing(landing)
 
 createApp().mount();
 
