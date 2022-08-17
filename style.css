@@ -67,22 +67,22 @@ body {
 
 /* unvisited link */
 a.style-nav:link {
-  color: green;
+  color: #559953;
 }
 
 /* visited link */
 a.style-nav:visited {
-  color: green;
+  color: #559953;
 }
 
 /* mouse over link */
 a.style-nav:hover {
-  color: red;
+  color: #865399;
 }
 
 /* selected link */
 a.style-nav:active {
-  color: yellow;
+  color: #538499;
 }
 
 /*Container that includes two columns*/
